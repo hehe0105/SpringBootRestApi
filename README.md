@@ -1,18 +1,19 @@
 # Jenkins
 Adding Git webhooks to CI/CD
 ### API Test:
+![Summary](https://github.com/hehe0105/SpringBootRestApi/blob/main/document/0.png?raw=true)
 
 #### 1. Post
-![Post](https://raw.githubusercontent.com/taohongyao/JenkinsTest/main/TestResult/IMG/Post.jpg)
+![Post](https://github.com/hehe0105/SpringBootRestApi/blob/main/document/5.png?raw=true)
 
 #### 2. Put
-![Put](https://raw.githubusercontent.com/taohongyao/JenkinsTest/main/TestResult/IMG/Put.jpg)
+![Put](https://github.com/hehe0105/SpringBootRestApi/blob/main/document/2.png?raw=true)
 
 #### 3. Get
-![Get](https://raw.githubusercontent.com/taohongyao/JenkinsTest/main/TestResult/IMG/GetAll.jpg)
+![Get](https://github.com/hehe0105/SpringBootRestApi/blob/main/document/1.png?raw=true)
 
 #### 4. GetById
-![Get](https://raw.githubusercontent.com/taohongyao/JenkinsTest/main/TestResult/IMG/GetOne.jpg)
+![Get](https://github.com/hehe0105/SpringBootRestApi/blob/main/document/4.png?raw=true)
 
 #### 5. Delete
-![Delete](https://raw.githubusercontent.com/taohongyao/JenkinsTest/main/TestResult/IMG/Delete.jpg)
+![Delete](https://github.com/hehe0105/SpringBootRestApi/blob/main/document/3.png?raw=true)
